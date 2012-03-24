@@ -37,6 +37,7 @@ Acme::Symbol -
 =head1 SYNOPSIS
 
   use Acme::Symbol;
+  Acme::Symbol->symbol('string');
 
 =head1 DESCRIPTION
 
